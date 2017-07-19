@@ -1,2 +1,4 @@
 # H_W
-Helloe World v2
+Hello World v2
+
+Just fooling around with github and its functionalities
